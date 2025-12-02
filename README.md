@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Divya1523/JavaProgramming/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Divya1523/JavaProgramming/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Divya1523/JavaProgramming/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divya1523/JavaProgramming/tree/master/0169-majority-element) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Divya1523/JavaProgramming/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
