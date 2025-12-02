@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Divya1523/JavaProgramming/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Divya1523/JavaProgramming/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Divya1523/JavaProgramming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya1523/JavaProgramming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
@@ -62,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Divya1523/JavaProgramming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Divya1523/JavaProgramming/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Divya1523/JavaProgramming/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
