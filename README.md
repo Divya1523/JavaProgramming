@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Divya1523/JavaProgramming/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya1523/JavaProgramming/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya1523/JavaProgramming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Divya1523/JavaProgramming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Divya1523/JavaProgramming/tree/master/1672-richest-customer-wealth) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Divya1523/JavaProgramming/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Divya1523/JavaProgramming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya1523/JavaProgramming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/Divya1523/JavaProgramming/tree/master/3668-restore-finishing-order) |
 ## Simulation
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divya1523/JavaProgramming/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya1523/JavaProgramming/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya1523/JavaProgramming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/Divya1523/JavaProgramming/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Divya1523/JavaProgramming/tree/master/2574-left-and-right-sum-differences) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya1523/JavaProgramming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
