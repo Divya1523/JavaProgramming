@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Divya1523/JavaProgramming/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Divya1523/JavaProgramming/tree/master/2574-left-and-right-sum-differences) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Divya1523/JavaProgramming/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Divya1523/JavaProgramming/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3467-transform-array-by-parity](https://github.com/Divya1523/JavaProgramming/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/Divya1523/JavaProgramming/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Divya1523/JavaProgramming/tree/master/3701-compute-alternating-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divya1523/JavaProgramming/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya1523/JavaProgramming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Divya1523/JavaProgramming/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/Divya1523/JavaProgramming/tree/master/3668-restore-finishing-order) |
 ## Simulation
 |  |
