@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya1523/JavaProgramming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Divya1523/JavaProgramming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/Divya1523/JavaProgramming/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Divya1523/JavaProgramming/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Divya1523/JavaProgramming/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Divya1523/JavaProgramming/tree/master/2574-left-and-right-sum-differences) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya1523/JavaProgramming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Divya1523/JavaProgramming/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
