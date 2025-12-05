@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Divya1523/JavaProgramming/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Divya1523/JavaProgramming/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divya1523/JavaProgramming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Divya1523/JavaProgramming/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divya1523/JavaProgramming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/Divya1523/JavaProgramming/tree/master/2574-left-and-right-sum-differences) |
 | [2974-minimum-number-game](https://github.com/Divya1523/JavaProgramming/tree/master/2974-minimum-number-game) |
