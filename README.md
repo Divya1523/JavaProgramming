@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Divya1523/JavaProgramming/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Divya1523/JavaProgramming/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Divya1523/JavaProgramming/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Divya1523/JavaProgramming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Divya1523/JavaProgramming/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Divya1523/JavaProgramming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Divya1523/JavaProgramming/tree/master/3467-transform-array-by-parity) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Divya1523/JavaProgramming/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Divya1523/JavaProgramming/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Divya1523/JavaProgramming/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Divya1523/JavaProgramming/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Divya1523/JavaProgramming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divya1523/JavaProgramming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Divya1523/JavaProgramming/tree/master/3516-find-closest-person) |
