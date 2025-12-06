@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Divya1523/JavaProgramming/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Divya1523/JavaProgramming/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Divya1523/JavaProgramming/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Divya1523/JavaProgramming/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Divya1523/JavaProgramming/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Divya1523/JavaProgramming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Divya1523/JavaProgramming/tree/master/3467-transform-array-by-parity) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Divya1523/JavaProgramming/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Divya1523/JavaProgramming/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/Divya1523/JavaProgramming/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Divya1523/JavaProgramming/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/Divya1523/JavaProgramming/tree/master/3701-compute-alternating-sum) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Divya1523/JavaProgramming/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Divya1523/JavaProgramming/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Divya1523/JavaProgramming/tree/master/2652-sum-multiples) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Divya1523/JavaProgramming/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Divya1523/JavaProgramming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divya1523/JavaProgramming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Divya1523/JavaProgramming/tree/master/3516-find-closest-person) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Divya1523/JavaProgramming/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Divya1523/JavaProgramming/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
