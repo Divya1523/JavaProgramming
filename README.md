@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Divya1523/JavaProgramming/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Divya1523/JavaProgramming/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Divya1523/JavaProgramming/tree/master/1952-three-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Divya1523/JavaProgramming/tree/master/2119-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/Divya1523/JavaProgramming/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Divya1523/JavaProgramming/tree/master/2652-sum-multiples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Divya1523/JavaProgramming/tree/master/3432-count-partitions-with-even-sum-difference) |
