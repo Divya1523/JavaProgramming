@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Divya1523/JavaProgramming/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Divya1523/JavaProgramming/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/Divya1523/JavaProgramming/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Divya1523/JavaProgramming/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Divya1523/JavaProgramming/tree/master/2418-sort-the-people) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Divya1523/JavaProgramming/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/Divya1523/JavaProgramming/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Divya1523/JavaProgramming/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Divya1523/JavaProgramming/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Divya1523/JavaProgramming/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Divya1523/JavaProgramming/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/Divya1523/JavaProgramming/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
