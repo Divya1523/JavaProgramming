@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Divya1523/JavaProgramming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Divya1523/JavaProgramming/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Divya1523/JavaProgramming/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Divya1523/JavaProgramming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Divya1523/JavaProgramming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Divya1523/JavaProgramming/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Divya1523/JavaProgramming/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Divya1523/JavaProgramming/tree/master/1108-defanging-an-ip-address) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Divya1523/JavaProgramming/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Divya1523/JavaProgramming/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Divya1523/JavaProgramming/tree/master/2678-number-of-senior-citizens) |
 | [3340-check-balanced-string](https://github.com/Divya1523/JavaProgramming/tree/master/3340-check-balanced-string) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divya1523/JavaProgramming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Divya1523/JavaProgramming/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
